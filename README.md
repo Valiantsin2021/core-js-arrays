@@ -1,4 +1,6 @@
 # Core JS Arrays
+Test results:
+[Allure report](https://valiantsin2021.github.io/core-js-arrays/)
 
 :warning: **Please note that you mustn't open PRs that contains the answers to this repo!**
 
